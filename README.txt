@@ -1,10 +1,11 @@
 #####################################################
-#              		           A      C         	#
+#              		           A      C         	    #
 # Splicing Efficiency Calculator= --- x -----       #
-# 				  A+B   D x E       				#
+# 				  A+B   D x E       				              #
 #####################################################
 
 SE calculator extensively use Samtools for calculating the score. This script relies on "coordinates" and annotation file EXACTLY matching i.e. belongs to same genomic build and source.
+
 There are mainly 4 steps for SE score calculation
 
 STEP 1 parse the input file and format for further analysis. Please uncheck "#" if you are using .GTF file
