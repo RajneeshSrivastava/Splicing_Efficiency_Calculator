@@ -4,7 +4,7 @@
 # 				  A+B   D x E       #
 #####################################################
 
-#Usage:sh C3.sh <sample.bam> <Gene_list.bed> <Ensembl_Genome.gtf>
+#Usage:sh Splicing_Efficiency_Calculator.sh <sample.bam> <Gene_list.bed> <Ensembl_Genome.gtf>
 
 FILE1=$1  #Treg_4.sorted.bam
 FILE2=$2  #Gene_list.bed (1 100006020 100006584 ENSMUSG00000100662; Queried gene coordinates and .gtf files MUST be from the same Ensembl version)
