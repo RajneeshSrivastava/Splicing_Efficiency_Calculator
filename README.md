@@ -10,4 +10,4 @@ STEP 2 is optional if you are using the same genomic build (Mus_musculus.GRCm38.
 STEP 3 is the main step where all the stats will be computed for given Gene_list.bed
 STEP 4 calculate the SE score by formula.
 
-Usage:sh C3.sh <sample.bam> <Gene_list.bed> <Ensembl_Genome.gtf>
+Usage:sh Splicing_Efficiency_Calculator.sh <sample.bam> <Gene_list.bed> <Ensembl_Genome.gtf>
