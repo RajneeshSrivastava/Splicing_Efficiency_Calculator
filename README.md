@@ -15,7 +15,7 @@ STEP 3 is the main step where all the stats will be computed for given Gene_list
 
 STEP 4 calculate the SE score by formula.
 
-Usage:
+## Usage:
 
     sh Splicing_Efficiency_Calculator.sh <sample.bam> <Gene_list.bed> <Ensembl_Genome.gtf>
 
